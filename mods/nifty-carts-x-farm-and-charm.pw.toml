@@ -1,0 +1,13 @@
+name = "Nifty Carts x Farm & Charm"
+filename = "nifty-carts-x-farm-and-charm-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DDUhwDmz/versions/mqFLmNjZ/nifty-carts-x-farm-and-charm-1.0.jar"
+hash-format = "sha512"
+hash = "0594fa3b123a91d71b7c57075fd8a16b96c8cf93ae1c9ed7502951e68ca25b05cd0bef16cb604af89ea3bcce6c95415a4d08d7e5716d00964b5c65b85410cd94"
+
+[update]
+[update.modrinth]
+mod-id = "DDUhwDmz"
+version = "mqFLmNjZ"

@@ -1,0 +1,13 @@
+name = "New Spawn Eggs & Vanilla Backport Compat"
+filename = "Armadillo & Namespace update.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xxFz5ON3/versions/2fXQfg7p/Armadillo%20%26%20Namespace%20update.zip"
+hash-format = "sha512"
+hash = "6ff5cfabd851d9ee3de5ef4e14dac069aa5f3269ea1e42f437a94d1c3ab8635ee6500f5a1f4307ce74f5f0e14dcd6a554fc49168b1a15bf8206d61f86d5d7bfe"
+
+[update]
+[update.modrinth]
+mod-id = "xxFz5ON3"
+version = "2fXQfg7p"

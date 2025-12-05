@@ -1,0 +1,13 @@
+name = "Open Simple Frames"
+filename = "simpleframes-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nELKzJ5C/versions/MsFRxfoO/simpleframes-1.2.0.jar"
+hash-format = "sha512"
+hash = "2da7908c9a8f8c9e7afc42258595c02428ab81a3cd59713d600098d6ceec131ad4e4371ecafc495d1cd37e3f517c47e9bf4b3de393d04fab29a28495f20e7971"
+
+[update]
+[update.modrinth]
+mod-id = "nELKzJ5C"
+version = "MsFRxfoO"

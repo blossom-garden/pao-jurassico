@@ -1,0 +1,13 @@
+name = "Boundless Building"
+filename = "boundlessbuilding-0.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xVbIvP4Z/versions/UeRfTKaL/boundlessbuilding-0.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "031ec4a4cce6fa067a47970bd8f9e746ce365b6a40c9e77b66ced470b6cc2a0d8d291eed69095dbfb3151f1b9d24a2ec597acf616d9af48758cfed17d90c50e7"
+
+[update]
+[update.modrinth]
+mod-id = "xVbIvP4Z"
+version = "UeRfTKaL"

@@ -1,0 +1,13 @@
+name = "Supplementaries Squared"
+filename = "suppsquared-1.20-1.1.27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/Ms3A3x19/suppsquared-1.20-1.1.27.jar"
+hash-format = "sha512"
+hash = "2e63c2685888dfe445ce01acf9c167f36a72ec660b1e6e0d3c96f1d9bccf0cdb3d4cf07588dddda355d3751a383456c39aa755a06cea4f20ce753b7b76332daa"
+
+[update]
+[update.modrinth]
+mod-id = "dCCkNFwE"
+version = "Ms3A3x19"

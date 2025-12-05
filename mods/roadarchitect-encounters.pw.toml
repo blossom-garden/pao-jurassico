@@ -1,0 +1,13 @@
+name = "RoadArchitect: Encounters"
+filename = "roadarchitect_encounters-1.1.0-fix.1-fabric+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XVknWoiY/versions/vxUYY3tv/roadarchitect_encounters-1.1.0-fix.1-fabric%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "4e4b2cb8368bfd649f2ee906ecedcf409031a344ce0ac33c787cd307983277d65dddc365b8341569d3f709c48c4aa1cea7114d2cf81eb49af937b5a80260c643"
+
+[update]
+[update.modrinth]
+mod-id = "XVknWoiY"
+version = "vxUYY3tv"
