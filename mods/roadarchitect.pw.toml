@@ -1,6 +1,6 @@
 name = "RoadArchitect"
 filename = "roadarchitect-1.6.1-fabric+1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/dLRvLyY3/versions/u3IyYxds/roadarchitect-1.6.1-fabric%2B1.20.1.jar"
