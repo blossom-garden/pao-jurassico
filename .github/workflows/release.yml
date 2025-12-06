@@ -21,9 +21,17 @@ jobs:
         id: name
         run: echo $(cat pack.toml | grep "name = ") | sed -r 's/name = //' | sed -r 's/[" ]//g' | sed -r 's/([a-z0-9])([A-Z])/\1-\2/g' | tr '[:upper:]' '[:lower:]' | echo "ref=$(< /dev/stdin)" >> "${GITHUB_OUTPUT}"
 
+      - name: Determine version body description
+        id: description
+        run: |
+          commit_title=$(git log -1 --pretty=format:"%s")
+          commit_body=$(git log -1 --pretty=format:"%b")
+          echo "ref=$commit_title\n\n$commit_body" >> "${GITHUB_OUTPUT}"
+
     outputs:
       version: ${{ steps.version.outputs.ref }}
       name: ${{ steps.name.outputs.ref }}
+      description: ${{ steps.description.outputs.ref }}
 
   export:
     needs:
@@ -31,6 +39,7 @@ jobs:
     env:
       version: ${{ needs.get-info.outputs.version }}
       name: ${{ needs.get-info.outputs.name }}
+      description: ${{ needs.get-info.outputs.description }}
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     runs-on: ubuntu-latest
     permissions: write-all
@@ -62,4 +71,5 @@ jobs:
           asset_name: ${{env.name}}.mrpack
           release_name: ${{ env.version }}
           tag: ${{ env.version }}
+          body: ${{ env.description }}
           overwrite: true

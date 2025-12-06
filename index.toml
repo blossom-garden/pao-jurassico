@@ -35,6 +35,11 @@ hash = "30d759179cc7ebb5f798ed79d521ad01b11e5831c0f83d6bd98518931c03b869"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
+metafile = true
+
+[[files]]
 file = "mods/build-guide.pw.toml"
 hash = "6b35a0220be7bcf242e1c56c82371d237da641e7436f5a2893a2c53e60fd46cb"
 metafile = true
@@ -140,8 +145,18 @@ hash = "85e012f1e3fa929ed32f3ce347c9f26606e80393ed30988553a656fd8003900b"
 metafile = true
 
 [[files]]
+file = "mods/extractinator.pw.toml"
+hash = "fe3fdbd01b83896d96c3f0e8dedc921c45fb034a94fc087b106dd6607c054dc0"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
@@ -180,6 +195,11 @@ hash = "75be56cc068db54ef72d3413cf11a4bea272beed606db8a3ee4c305cbe598d95"
 metafile = true
 
 [[files]]
+file = "mods/immersive-machinery.pw.toml"
+hash = "6609bbf9ad34d9ef90ebb9c8bf7ec1617ce83699f7db37018ce4fb132b6caf80"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "67b0b2bd471fc2393c7c8e95cae5ae6031e621d11f5e253c07a4427857f1a2bd"
 metafile = true
@@ -187,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
 metafile = true
 
 [[files]]
@@ -207,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
 metafile = true
 
 [[files]]
@@ -252,11 +282,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "4b1b29ebfbbd9f23eb90c8c9f5113fce64c3ca605c8cad3aedaa25be83a82a53"
 metafile = true
 
 [[files]]
@@ -395,6 +420,11 @@ hash = "bcae9313ec18f1ff847bbb63d182100cb985d1bed7f120b88061bfda39392b6a"
 metafile = true
 
 [[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "6054f41427006d33365bf20810e5c6ad7e7e3019ece736b39b0c45ddf438cd4e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
@@ -402,6 +432,16 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "767f1d29cf465dc38d5ef9a93b2a9d4c54daad8c82535d525070efd97f504ad9"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
@@ -550,6 +590,11 @@ hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
+file = "mods/zipline.pw.toml"
+hash = "ba107fdc54fb208245d2770ec74dd5776db5942000afee4b45169b67e14d8444"
+metafile = true
+
+[[files]]
 file = "packwiz-installer-bootstrap.pw.toml"
 hash = "66fd4a47f4eb3fc7b0e487b0fafc998f009e889188bcc5a609d04c2ab97e369f"
 metafile = true
@@ -582,6 +627,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations-emissive.pw.toml"
 hash = "dcd0431bf5f45761e679ed20cae3e913e02e6eb06e572d3d37e81d002ac47f5e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-ghasts-galore.pw.toml"
+hash = "172fd7fb75f40d6d2f3a967a34a3e3c2627deb9851368eb077c02e863d5b0566"
 metafile = true
 
 [[files]]
