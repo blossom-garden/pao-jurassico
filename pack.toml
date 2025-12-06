@@ -1,12 +1,12 @@
 name = "Pao Jurassico"
 author = "koiitulip"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3a254793e3f4494ebcdc652dad489787de3a0b54023573079f9776b5efc473f4"
+hash = "6d01e3b5aa3447a13de5c86714eef4acf2d7e729dd1220fcb6e2e2a3e526727f"
 
 [versions]
 fabric = "0.18.1"

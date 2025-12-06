@@ -435,11 +435,6 @@ hash = "c08dcea37c03dcb5cfad9d3d14f5e885995cf9bb74975244781e1354c937afa7"
 metafile = true
 
 [[files]]
-file = "mods/redeco.pw.toml"
-hash = "bcae9313ec18f1ff847bbb63d182100cb985d1bed7f120b88061bfda39392b6a"
-metafile = true
-
-[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "6054f41427006d33365bf20810e5c6ad7e7e3019ece736b39b0c45ddf438cd4e"
 metafile = true
