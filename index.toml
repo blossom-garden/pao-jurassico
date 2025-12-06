@@ -5,6 +5,11 @@ file = ".directory"
 hash = "ac41f8f6e3fcc21747aae54409ead6484a2df8b1d013e2ebc560ccc968a677d2"
 
 [[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "246669da59267111727608f860abc2232705a5bd9cc00e53d8a64d36d849ce22"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "1e5b00de09f3382cb89564dca455b0d547855c09d8d28d2e98e47d95fabcaeff"
 metafile = true
@@ -32,6 +37,21 @@ metafile = true
 [[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "30d759179cc7ebb5f798ed79d521ad01b11e5831c0f83d6bd98518931c03b869"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "48ef9e4284b44490f568508a5577023399ed6b95dba6a36f413e9b8eeeec2f40"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "a37a38f2fc9f18eeef9ce0a5d4e0c2f8682680d874ed137f341c76628de20579"
 metafile = true
 
 [[files]]
@@ -120,6 +140,11 @@ hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
 metafile = true
 
 [[files]]
+file = "mods/emized-botany-pots.pw.toml"
+hash = "9abf30d65d74e7aba054061b6f7e9e467f5e83ce05fdb8744df1283a40155cb9"
+metafile = true
+
+[[files]]
 file = "mods/enchancement.pw.toml"
 hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
 metafile = true
@@ -192,11 +217,6 @@ metafile = true
 [[files]]
 file = "mods/horseman.pw.toml"
 hash = "75be56cc068db54ef72d3413cf11a4bea272beed606db8a3ee4c305cbe598d95"
-metafile = true
-
-[[files]]
-file = "mods/immersive-machinery.pw.toml"
-hash = "6609bbf9ad34d9ef90ebb9c8bf7ec1617ce83699f7db37018ce4fb132b6caf80"
 metafile = true
 
 [[files]]
