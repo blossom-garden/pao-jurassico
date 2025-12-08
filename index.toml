@@ -45,16 +45,6 @@ hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
 
 [[files]]
-file = "mods/botany-pots.pw.toml"
-hash = "48ef9e4284b44490f568508a5577023399ed6b95dba6a36f413e9b8eeeec2f40"
-metafile = true
-
-[[files]]
-file = "mods/botany-trees.pw.toml"
-hash = "a37a38f2fc9f18eeef9ce0a5d4e0c2f8682680d874ed137f341c76628de20579"
-metafile = true
-
-[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
 metafile = true
@@ -77,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
-metafile = true
-
-[[files]]
-file = "mods/cicada.pw.toml"
-hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
 metafile = true
 
 [[files]]
@@ -140,11 +125,6 @@ hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
 metafile = true
 
 [[files]]
-file = "mods/emized-botany-pots.pw.toml"
-hash = "9abf30d65d74e7aba054061b6f7e9e467f5e83ce05fdb8744df1283a40155cb9"
-metafile = true
-
-[[files]]
 file = "mods/enchancement.pw.toml"
 hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
 metafile = true
@@ -166,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-hash = "85e012f1e3fa929ed32f3ce347c9f26606e80393ed30988553a656fd8003900b"
+hash = "6a16810d228d5f6d8d91af1397340f89fed4a0c12cc63ff60b52b9d7cb7c72df"
 metafile = true
 
 [[files]]
@@ -270,43 +250,13 @@ hash = "8508e46b7e272d79dc6b3cc0149f9fd132c701369bcb2abb5c35da3ed92b27fb"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
-hash = "452c6f62f9601c728cef3575bf537a83661ccfcbaeceb59542a0cd0d0d2d6426"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
-hash = "1fa46cc140a1e1f028fdb0a1717022a701b4558b87c6c0506c7c82a9b80e9e1e"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
-hash = "f970ac4cc211e386a2bc289326983c03e62f5b4029b96c287d5ce980ccbdc227"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-emi-compat.pw.toml"
-hash = "81445c534ed0054a7f787b4cae2802a7bacbadf337298e2a89a30e86ed4e6fb8"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-farm-charm.pw.toml"
-hash = "32157b1262c90a4ebee4a24028c39c2753a209b453c03c59391278acd432fc3c"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-furniture.pw.toml"
-hash = "fb4040773ed0eca07efb4a822f88990df3ad6ff4b50c9616032237400638d85f"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "bc91fa90e9f26f3ff3690c1a508647a162cd63dc36d815b8af0d6f5e01e5ecbf"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f43c82e3cc6079291ddae81445c703905b6c670dd43f444e47f5cd817944e822"
+hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
 
 [[files]]
@@ -330,18 +280,8 @@ hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
 metafile = true
 
 [[files]]
-file = "mods/moretaggedrecipies.pw.toml"
-hash = "7bdcdc839fca66879523b3a4988b73e02374c4b8abd78aa310ac430a80b72236"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
-metafile = true
-
-[[files]]
-file = "mods/nifty-carts-x-farm-and-charm.pw.toml"
-hash = "1c1a41c8389e2111908782edadd0a0f5a37db386f39325d22d58c3159cb39027"
 metafile = true
 
 [[files]]
@@ -435,11 +375,6 @@ hash = "c08dcea37c03dcb5cfad9d3d14f5e885995cf9bb74975244781e1354c937afa7"
 metafile = true
 
 [[files]]
-file = "mods/redstonepen.pw.toml"
-hash = "6054f41427006d33365bf20810e5c6ad7e7e3019ece736b39b0c45ddf438cd4e"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
@@ -480,11 +415,6 @@ hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
 
 [[files]]
-file = "mods/show-me-your-skin.pw.toml"
-hash = "f29ba19cab72bdca9cbf01a557f5fb78513412094d4d4051295ab34ff1a86d9d"
-metafile = true
-
-[[files]]
 file = "mods/simple-belt-lanterns.pw.toml"
 hash = "15a808dcac3a064074b22bde2ddf939883cb754cfce97abe5628b75078b15bdc"
 metafile = true
@@ -516,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "2cdf2563d1fbf2409e69a37184abb5cf807746eb736e720e14bb15b16e37ff2d"
+hash = "116f803a2b3c68c5b0b7bfbad1fd9072ed3df78a1dcdfa8c48f70e5ef450f620"
 metafile = true
 
 [[files]]
@@ -571,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-backport-terralith-bwg-compat.pw.toml"
-hash = "b85d6a2e0c4fc0532f6b5f22c7f8f8f8c9d830281c6975e8f0f1cdea08cb3b47"
+hash = "a449bdeadcba1999e3207476595c35e61c801efc5479019b6a1c364c86f241a3"
 metafile = true
 
 [[files]]
@@ -631,17 +561,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-creepers.pw.toml"
-hash = "bc82402c88e6809625c18a01b9eb85b0885a1c44fd3293979eb4c12871691408"
+hash = "7913ccc031786220b0d2226389d2f034369183572e7071e5d7612b442359f130"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-details.pw.toml"
-hash = "595e82727529453141a910c99f27302a908b5488ca782a9a1d99809276630786"
+hash = "870f127871c2347f9c64006de03906d11655a5799af2a9862a7529bee8b8de1a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-emissive.pw.toml"
-hash = "dcd0431bf5f45761e679ed20cae3e913e02e6eb06e572d3d37e81d002ac47f5e"
+hash = "36f1f87cc258740fa9929f90a784ed91aaf211f75a3973b067d01ec4c12ce926"
 metafile = true
 
 [[files]]
@@ -651,12 +581,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-objects.pw.toml"
-hash = "a91bf9ed0c2ff42ceafdea4e94eb4378bc54d807b60fd5486bfb6ffdbfc6ed2e"
+hash = "4a2a1d4fb13506f5011fa74e9ca441e766b6727cff54e5672a2cb945b6d3f17c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-spiders.pw.toml"
-hash = "8c80dec7ad533aa7d71f6830c1a1703771025d6814803e72b706fe8a7d0e229b"
+hash = "3603263cecdbedd8d3e94aec2e6c99947b559e760c3819a44ef0e72d71298d8c"
 metafile = true
 
 [[files]]
@@ -708,7 +638,3 @@ metafile = true
 file = "resourcepacks/vanilla-backport-x-fresh-animations.pw.toml"
 hash = "92582b5a76e548fa4d64f72b569b5c7bf06026c3642526d35c9f1102e73f4c3a"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "6337a39bfd706fd8df91e5e2a5d6b1d8639ed57b779391b6e9f819a9e76c1746"
