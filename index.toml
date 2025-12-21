@@ -45,11 +45,6 @@ hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
 
 [[files]]
-file = "mods/bountiful.pw.toml"
-hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
-metafile = true
-
-[[files]]
 file = "mods/build-guide.pw.toml"
 hash = "6b35a0220be7bcf242e1c56c82371d237da641e7436f5a2893a2c53e60fd46cb"
 metafile = true
@@ -312,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "071ce6bcd5614ceb07718b646f1012faf9c449eb8e56c0b740929a9efada593c"
-metafile = true
-
-[[files]]
-file = "mods/numismatic-bounties.pw.toml"
-hash = "7e064eaaa283817c1f32d1ee321ade053fc18336e9afd5b967c96965c02e5f58"
 metafile = true
 
 [[files]]
