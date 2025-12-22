@@ -1,0 +1,13 @@
+name = "Happy Ghasts Boost"
+filename = "happy_ghasts_boost-merged-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IavCsUgJ/versions/lZRIyg01/happy_ghasts_boost-merged-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "16811e408600921d8788736f2377e4062cb2a20f6255c589741a9eabacc93e472f3270aa867b85417e652f634d87adc798b774abda15227c419a5679250b49a1"
+
+[update]
+[update.modrinth]
+mod-id = "IavCsUgJ"
+version = "lZRIyg01"
